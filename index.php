@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Presento Bootstrap Template - Index</title>
+  <title>IT-web.by</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -44,7 +44,7 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center">
-      <h1 class="logo me-auto"><a href="index.html">IT-web<span>.</span>by</a></h1>
+      <h1 class="logo me-auto"><a href="index.php">IT-web<span>.</span>by</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt=""></a>-->
 
@@ -54,8 +54,8 @@
           <li><a class="nav-link scrollto" href="#about">О нас</a></li>
           <li><a class="nav-link scrollto" href="#services">SEO</a></li>
           <li><a class="nav-link scrollto " href="#portfolio">Портфолио</a></li>
-          <li><a class="nav-link scrollto" href="#team">Фото для бизнесса</a></li>
-          <li><a href="blog.html">Блог</a></li>
+          <li><a class="nav-link scrollto" href="#team">Фото для бизнеса</a></li>
+          <li><a href="blog.php">Блог</a></li>
           <li class="dropdown"><a href="#"><span>Ремонт и обслуживание</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -78,7 +78,7 @@
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="#about" class="get-started-btn scrollto">Get Started</a>
+      <a href="#about" class="get-started-btn scrollto">Позвонить</a>
     </div>
   </header><!-- End Header -->
 
@@ -88,9 +88,9 @@
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <div class="row">
         <div class="col-xl-6">
-          <h1>Создаём не просто сайты - мы делаем деньги для Вашего малого и среднего бизнесса.</h1>
-          <h2>Создание сайтов под ключ. SEO -продвижение. Реклама. Обслуживание ПК. Фото для вашего бизнесса. </h2>
-          <a href="#about" class="btn-get-started scrollto">Get Started</a>
+          <h1>Создаём не просто сайты - мы делаем деньги для Вашего малого и среднего бизнеса.</h1>
+          <h2>- Создание сайтов под ключ<br>- SEO - продвижение. Реклама в Яндексе и Google<br>- Ремонт и обслуживание ПК и ноутбуков<br>- Фото для Вас и Вашего бизнесса</h2>
+          <a href="#about" class="btn-get-started scrollto">Позвонить</a>
         </div>
       </div>
     </div>
@@ -113,6 +113,9 @@
             <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid" alt=""></div>
             <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-9.png" class="img-fluid" alt=""></div>
+            <div class="swiper-slide"><img src="assets/img/clients/client-10.png" class="img-fluid" alt=""></div>
+            
           </div>
           <div class="swiper-pagination"></div>
         </div>
@@ -467,7 +470,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -482,7 +485,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -497,7 +500,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -512,7 +515,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -527,7 +530,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -542,7 +545,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -557,7 +560,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -572,7 +575,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -587,7 +590,7 @@
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
                     class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -702,17 +705,16 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Pricing</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
-            consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
+          <h2>Цены</h2>
+          <p>Выберете подходящий Вам сайт для вашего бизнеса. Работая с нами, вы получаете качественный сайт. Результативное продвижение. Отзывчивую поддержку. Вежливый персонал.</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-4 col-md-6">
             <div class="box" data-aos="fade-up" data-aos-delay="100">
-              <h3>Free</h3>
-              <h4><sup>$</sup>0<span> / month</span></h4>
+              <h3>Сайт-визитка</h3>
+              <h4><sup>от</sup>300<span> BYN</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -728,8 +730,8 @@
 
           <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
             <div class="box featured" data-aos="fade-up" data-aos-delay="200">
-              <h3>Business</h3>
-              <h4><sup>$</sup>19<span> / month</span></h4>
+              <h3>Корпоративный многостраничный сайт</h3>
+              <h4><sup>от</sup>450<span> BYN</span></h4>
               <ul>
                 <li>Aida dere</li>
                 <li>Nec feugiat nisl</li>
@@ -745,17 +747,17 @@
 
           <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
             <div class="box" data-aos="fade-up" data-aos-delay="300">
-              <h3>Developer</h3>
-              <h4><sup>$</sup>29<span> / month</span></h4>
+              <h3>Сайт с индивидуальным дизайном, с нуля.</h3>
+              <h4><sup>от</sup>600<span> BYN</span></h4>
               <ul>
-                <li>Aida dere</li>
-                <li>Nec feugiat nisl</li>
-                <li>Nulla at volutpat dola</li>
-                <li>Pharetra massa</li>
-                <li>Massa ultricies mi</li>
+                <li>Разработка проекта сайта</li>
+                <li>Работа с UX/UI - дизайнером</li>
+                <li>Верстка сайта с нуля согласно ТЗ</li>
+                <li>Программирование функионала</li>
+                <li>Тестирование и упаковка</li>
               </ul>
               <div class="btn-wrap">
-                <a href="#" class="btn-buy">Buy Now</a>
+                <a href="#" class="btn-buy">Узнать подробнее</a>
               </div>
             </div>
           </div>
@@ -861,8 +863,8 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Фотограф для вашего бизнесса</h2>
-          <p>Бизнесс-съёмка (персональные фотосессии как для обложек журналов). Контент - съёмка (съёмка товаров, съёмка
+          <h2>Фотограф для вашего бизнеса</h2>
+          <p>Бизнес-съёмка (персональные фотосессии как для обложек журналов). Контент - съёмка (съёмка товаров, съёмка
             для рестораном и кафе, съёмка блюд, одежды и трочего...). Аэро-фото и видео-съёмка. (создание фото и
             видео-роликов, презентаций вашего бизнеса, работы коллектива, создание Promo-роликов)</p>
         </div>
@@ -872,7 +874,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/team-1.webp" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -881,7 +883,7 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Бизнесс-съёмка</h4>
+                <h4>Бизнес-съёмка</h4>
                 <span>Персональные фотосессии</span>
               </div>
             </div>
@@ -951,7 +953,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Contact</h2>
+          <h2>Контакты</h2>
           <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint
             consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.</p>
         </div>
