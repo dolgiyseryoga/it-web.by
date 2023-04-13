@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Blog - Presento Bootstrap Template</title>
+  <title>IT-web.by</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -42,7 +42,7 @@
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center">
-      <h1 class="logo me-auto"><a href="index.php">Presento<span>.</span></a></h1>
+      <h1 class="logo me-auto"><a href="index.php">IT-web<span>.</span>by</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt=""></a>-->
 
@@ -87,7 +87,7 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.php">Home</a></li>
+          <li><a href="index.php">Главная</a></li>
           <li>Blog</li>
         </ol>
         <h2>Blog</h2>
